@@ -9,7 +9,7 @@ https://tinyurl.com/y7c76ozy
 https://communities.sas.com/t5/New-SAS-User/Convertin-multiple-XML-columns-into-a-single-SAS-data-column/m-p/500022
 
 I made some small changes to your xml because the copy and paste seemed to
-result in an invalid XML file. Note inding
+result in an invalid XML file. Note added </PEOPLE> on end.
 
 INPUT
 =====
