@@ -12,7 +12,7 @@ Example of xml to sas dataset sas libnam2 engine.
     https://communities.sas.com/t5/New-SAS-User/Convertin-multiple-XML-columns-into-a-single-SAS-data-column/m-p/500022
 
     I made some small changes to your xml because the copy and paste seemed to
-    result in an invalid XML file. Note inding
+    result in an invalid XML file. Note added </PEOPL> on end
 
     INPUT
     =====
